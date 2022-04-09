@@ -1,7 +1,7 @@
 ### Hello there 👋 :video_game:
 
 
-- 🔭 I’m currently working on Java Programming: Solving Problems with Software course by Duke University and a Fullstack Course by LaunchX.
+- 🔭 I’m currently working on Fullstack Course by LaunchX.
 - 🌱 I’m currently learning Java, JavaScript.
 - 👯 I’m looking to collaborate on FrontEnd Development.
 - 🤔 I’m looking for help to find a job. 
